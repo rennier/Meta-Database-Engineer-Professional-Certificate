@@ -1,13 +1,11 @@
 # Meta-Database-Engineer-Professional-Certificate
 Certificate:
 
-<img src="https://github.com/rennier/Google-Cyber-Security-Portfolio/blob/80d8d1b7f215f7af41323f0ce2ba15dc2b72fef0/Google%20Cybersecurity%20Certificate-Rennie%20Ramlochan.png" alt="View certificate for Rennie Ramlochan, Google Cybersecurity, offered through Coursera. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to Identifying common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."/>
+<img src="https://github.com/rennier/Meta-Database-Engineer-Professional-Certificate/blob/9b5b353dfc9de9fcd77294b5025b45de892b385c/Meta%20Database%20Engineer%20Professional%20Certificate-Rennie%20Ramlochan.jpeg" alt="View certificate for Rennie Ramlochan, Meta Database Engineer Professional Certificate, offered through Coursera. Those who earn the Meta Database Engineer Professional Certificate have completed nine courses, developed by Meta, that include hands-on, practice-based assessments and are designed to prepare them for roles in Database Engineering. They are competent in creating, managing,manipulating and administering databases, as well as industry-standard programming languages and software such as SQL, Python, and Django. "/>
 
-**Certificate for Rennie Ramlochan, Google Cybersecurity, offered through Coursera.** 
+**Certificate for Rennie Ramlochan, Meta Database Engineer Professional Certificate, offered through Meta.** 
 
-Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for roles in cybersecurity like cybersecurity analyst, security operations center (SOC) analyst, and more. 
-
-They are competent in Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to Identifying common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
+ 
 
 ***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** 
 <h1></h1>
