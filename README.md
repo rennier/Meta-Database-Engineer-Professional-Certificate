@@ -12,26 +12,64 @@ Those who earn the Database Engineer Professional Certificate have completed nin
 <em>This course covered topics such as:</em><br><br>
 
 **1.Introduction to Databases**
-<br>Concepts and principles that underpin how databases work .
-<br>Plan and execute a simple database development project .
-<br>Create, Read, Update and Delete (CRUD) Operations
-<br>SQL Operators and sorting and filtering data
-<br>Database design
+<br>In this course, you will be introduced to databases and explore the modern ways in which they are used. Learn to distinguish between different types of database management systems then practice basic creation and data selection with the use of Structured Query Language (SQL) commands. <br>
+By the end of this course, you’ll be able to: 
+<li>Demonstrate a working knowledge of the concepts and principles that underpin how databases work</li>
+<li>Identify and explain the different types of core technology and management systems used in databases</li>
+<li>Identify and interpret basic SQL statements and commands</li>
+<li>Manipulate records in a database with the use of SQL statements and commands</li>
+<li>Outline alternatives to SQL and plan and design a simple relational database system</li>
+<br>
+You’ll also gain experience with the following:
+<li>Fundamental concepts in database </li>
+<li>Basic MySQL syntax and commands</li>
+<li>Database management systems</li>
+<li>MySQL software</li>
+<li>Relational databases</li><br>
 
 **2.Version Control<br>**
-Implementing Version Control systems .<br>
-Navigating and configure using the command line .<br>
-Using a GitHub repository. Creating a GitHub repository.<br>
+Learn how modern software developers collaborate across the world without messing up each other's code. You will look at the different version control systems and how to create an effective software development workflow. You will be introduced to some of the most commonly used Linux commands that you can use to work with files on your hard drive and create powerful workflows that will automate your work, saving you time and effort. 
+<br>
+Finally, you will see how Git can be used in software development projects to manage team files. And you will create a repository that can manage code revisions.Implementing Version Control systems.
+
+
 
 **3.Database Structures and Management with MySQL<br>**
-Utilizing the MySQL DBMS to build and modify relational databases with SQL.<br>
-Creating relationships between tables using primary and foreign keys .<br>
-Updating databases and working with views.<br>
-Functions and MySQL stored procedures.<br>
+Develop a working knowledge of the MySQL database management system (DBMS). Gain DBMS skills such as data creation, querying and manipulation. You’ll gain further experience with SQL statements, clauses and data types. 
+<br>
+By the end of this course, you’ll be able to: 
+<li>Utilize the MySQL DBMS to build and modify relational databases with SQL </li>
+<li>Add records to a MySQL database</li> 
+<li>Perform intricate queries on database records with filters and groupings </li>
+<li>Create simple joins and unions within a database </li>
+<li>Create relationships between tables using primary and foreign keys </li>
+<li>Demonstrate the ability to complete a database normalization project</li>
+<br>
+You’ll gain experience with the following tools and software: 
+<li>MySQL DBMS </li>
+<li>Joins and Unions </li>
+<li>SQL statements, clauses and data types </li>
+<li>Primary and foreign keys </li>
+<li>Database normalization</li><br>
+
 
 **4.Advanced MySQL Topics.<br>**
-Adding decision structures and functionality to a MySQL databases using SQL functions and operators on numbers and strings.<br>
-Automating SQL by writing a stored procedure to solve real world problems.<br>
+In this course, you'll begin to push beyond simple SQL statements in MySQL to an advanced level in database engineering.<br>
+By the end of this course, you'll be able to:
+<li>Use control statements and variables in different contexts in MySQL</li>
+<li>Develop user defined functions and procedures</li>
+<li>Optimize MySQL database queries</li>
+<li>Demonstrate a working knowledge of common table expressions and the JSON data type</li>
+<li>Understand how and when to use triggers and events</li>
+<li>Utilize subqueries, JOINS, views and transactions to perform data analysis and use database optimization techniques such as MySQL transactions</li>
+<br>
+You'll gain experience with the following advanced MySQL database skills:
+<li>MySQL user defined functions</li>
+<li>Advanced MySQL stored procedures</li>
+<li>MySQL optimization techniques including Indexes, Transactions, CTE and JSON</li>
+<li>MySQL triggers and events</li>
+<li>Database analytics in MySQL</li>
+<li>Advanced SQL queries for data analysis with JOINS, views and subqueries</li><br>
 
 **5.Programming in Python<br>**
 In this course, you will be introduced to foundational programming skills with basic Python Syntax. You’ll learn how to use code to solve problems. You’ll dive deep into the Python ecosystem and learn popular modules, libraries and tools for Python. 
