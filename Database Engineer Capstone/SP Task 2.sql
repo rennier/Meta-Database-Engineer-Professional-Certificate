@@ -1,1 +1,0 @@
-PREPARE GetOrderDetail FROM order
