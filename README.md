@@ -1,7 +1,7 @@
 # Meta-Database-Engineer-Professional-Certificate
 Certificate:
 
-<img src="https://github.com/rennier/Meta-Database-Engineer-Professional-Certificate/blob/9b5b353dfc9de9fcd77294b5025b45de892b385c/Meta%20Database%20Engineer%20Professional%20Certificate-Rennie%20Ramlochan.jpeg" alt="View certificate for Rennie Ramlochan, 
+<img src="https://github.com/rennier/Meta-Database-Engineer-Professional-Certificate/blob/9b5b353dfc9de9fcd77294b5025b45de892b385c/Meta%20Database%20Engineer%20Professional%20Certificate-Rennie%20Ramlochan.jpeg" alt="View certificate for Rennie Ramlochan,  "/>
  
  
  Meta Database Engineer Professional Certificate, offered through Coursera. Those who earn the Meta Database Engineer Professional Certificate have completed nine courses, developed by Meta, that include hands-on, practice-based assessments and are designed to prepare them for roles in Database Engineering. They are competent in creating, managing,manipulating and administering databases, as well as industry-standard programming languages and software such as SQL, Python, and Django. "/>
